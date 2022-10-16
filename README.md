@@ -53,7 +53,7 @@ abspath(dirname(pathof(Fezzik)),"../","traces") |> edit
 ```
 
 ### PyPlot
-to enable PyPlot showing properly after it was baked into the sytem image
+to enable PyPlot showing properly after it was baked into the system image
 add
 ```julia
 PyPlot.ion()
